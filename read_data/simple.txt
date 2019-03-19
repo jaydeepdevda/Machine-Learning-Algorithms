@@ -1,0 +1,1 @@
+this is simple text file for demo of import data from text file into python program.
